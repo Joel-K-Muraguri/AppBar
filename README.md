@@ -1,3 +1,3 @@
 # AppBar
 
-Screeb Navigation Basics with the Bottom App Bar
+Screen Navigation Basics with the Bottom App Bar
